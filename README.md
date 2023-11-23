@@ -1,6 +1,6 @@
 👀 
 
-[![Chanson's github stats](https://github-readme-stats.vercel.app/api?username=chenchensheng&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Chanson's github stats](https://github-readme-stats.vercel.app/api?username=chanson-chan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <p> 
   Visitor count<br>
